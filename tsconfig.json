@@ -1,0 +1,13 @@
+{
+    "compilerOptions": {
+        "lib": ["es6", "dom"],  
+        "outDir": "./dist/", 
+        "noImplicitAny": true,
+        "noImplicitThis": true, 
+        "strictNullChecks": true, 
+        "module": "es6", 
+        "target": "es5", 
+        "allowJs": false, 
+        "sourceMap": true
+    }
+}
