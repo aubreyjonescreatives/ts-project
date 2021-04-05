@@ -7,12 +7,14 @@ h1, h2 {
 }
 
 li {
+    display: inline-block; 
     list-style-type: none; 
     padding: 50px; 
     font-size: 24px; 
 }
 
 button {
+    border: none; 
     margin-left: 50px; 
     padding: 20px;
     background-color: yellow; 
